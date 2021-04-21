@@ -66,3 +66,5 @@ When exception occurs at the time of compilation, it is called compile exception
 When exection occuers at the time of runtime it is called runtime exception.
 
 Java exception can be in both CT and RT, whereas selenium exception can be only in RT.
+
+The End.
